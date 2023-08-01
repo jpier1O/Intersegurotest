@@ -1,0 +1,30 @@
+{
+  "name": "Intersegurotest",
+  "version": "1.0.0",
+  "description": "Archivo para configurar proyecto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpier1O/Intersegurotest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpier1O/Intersegurotest/issues"
+  },
+  "homepage": "https://github.com/jpier1O/Intersegurotest#readme",
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.4.5",
+    "@types/oracledb": "^5.3.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "oracledb": "^6.0.3",
+    "sequelize": "^6.32.1"
+  }
+}
